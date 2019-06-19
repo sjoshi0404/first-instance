@@ -1,3 +1,3 @@
 print("Hello World")
 print("added second line")
-print("add by a colleague")
+print("hired a junior")
